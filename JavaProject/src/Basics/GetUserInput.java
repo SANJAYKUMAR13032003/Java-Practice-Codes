@@ -1,3 +1,4 @@
+package Basics;
 
 import java.util.*;
 public class GetUserInput {
@@ -16,7 +17,7 @@ public class GetUserInput {
 		
 		System.out.println("Integer => "+a);
 		System.out.println("String S1 => "+s1);
-		System.out.println("StRing S2 => "+s2);
+		System.out.println("String S2 => "+s2);
 		System.out.println("Character => "+ch);
 		System.out.println("Boolean => "+bol);
 		
