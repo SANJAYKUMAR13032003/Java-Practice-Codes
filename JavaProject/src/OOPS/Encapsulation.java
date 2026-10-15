@@ -30,7 +30,9 @@ public class Encapsulation {
 	public static void main(String[] args) {
 		
 		Encapsule E1 = new Encapsule();
+		
 		Encapsule E2 = new Encapsule();
+		
 		E1.getID();
 		E1.getName();
 		E1.setID(999);
